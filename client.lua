@@ -1,5 +1,5 @@
-     RegisterNetEvent('Gang')
-     AddEventHandler('Gang', function()
+     RegisterNetEvent('gang')
+     AddEventHandler('gang', function()
 
        local pedxd = GetPlayerPed( -1 )
     
