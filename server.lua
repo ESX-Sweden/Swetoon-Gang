@@ -1,5 +1,5 @@
 RegisterCommand('gang', function(source)
 
-	TriggerClientEvent( 'Gang', source )
+	TriggerClientEvent( 'gang', source )
 	
 end)
